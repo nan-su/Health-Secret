@@ -1,0 +1,12 @@
+﻿/* style.css */
+@font-face {
+    font-family: 'zawgyi-one';
+    src: url('file:///android_asset/fonts/zawgyi.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	font-family: 'zawgyi-one';
+	margin: 0px;
+	padding: 0px;
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/quizz"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tvQuiz"
+        android:layout_below="@+id/radioGroup1"
+        android:layout_weight="1"
+        android:background="#99ccff"
+        android:textSize="25dp"
+        android:text="Submit" />
+
+    <TextView
+        android:id="@+id/tvQuiz"
+        android:layout_width="600dp"
+        android:layout_height="700dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="106dp"
+        android:background="#99ccff"
+        android:text="	This is first radio button"
+        android:textSize="25dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvQuiz"
+        android:layout_below="@+id/tvQuiz"
+        android:layout_marginTop="25dp" >
+
+        <RadioButton
+            android:id="@+id/radio0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="Yes" />
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:textSize="25dp"
+            android:text="No" />
+
+        <RadioButton
+            android:id="@+id/radio3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:textSize="25dp" />
+
+        <RadioButton
+            android:id="@+id/radio4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:textSize="25dp" />
+    </RadioGroup>
+
+</RelativeLayout>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthSecret</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tip">Tips</string>
+    <string name="exc">Exercise</string>
+    <string name="quiz">Quiz</string>
+	<string name="home">HomeMake</string>
+	<string name="ftip">Face Tips</string>
+	<string name="htip">Hair Tips</string>
+	<string name="stip">Skin Tips</string>
+	<string name="mtip">Makeup Tips</string>
+	<string name="juice">Juice</string>
+	<string name="mask">Mask</string>
+	<string name="food">Food</string>
+	<string name="hand">Hand Exercise</string>
+	<string name="head">Head Exercise</string>
+	<string name="leg">Leg Exercise</string>
+	<string name="chin">Chin Exercise</string>
+	<string name="weight">WeightLoss</string>
+	<string name="belly">Belly Exercise</string>
+    
+    <string name="title_section1">Face Cleaning</string>
+     <string name="title_section2">FaceOpenPores</string>
+     <string name="title_section3">Clearblackhead</string>
+     <string name="title_section4">Facefreckles</string>
+     <string name="title_section5">Eyepuffiness</string>
+      <string name="title_section6">ColorHair</string>
+     <string name="title_section7">GlossyHair</string>
+     <string name="title_section8">CurlyHair</string>
+     <string name="title_section9">HairDandruff</string>
+     <string name="title_section10">HairSplitEnds</string>
+     <string name="title_section11">HairLose</string>
+      <string name="title_section12">PerfectSkin</string>
+     <string name="title_section13">LightenSkin</string>
+     <string name="title_section14">DryFaceSkin</string>
+     <string name="title_section15">DryEyelidSkin</string>
+     <string name="title_section16">DryFeetSkin</string>
+     <string name="title_section17">DarkSkin</string>
+     <string name="title_section18">Face</string>
+      <string name="title_section19">Eye</string>
+     <string name="title_section20">Lip</string>
+     <string name="title_section21">DailyMakeup</string>
+     <string name="title_section22">SparklingTeeth</string>
+     <string name="title_section23">Nailart</string>
+     <string name="title_section24">Tropical Juice</string>
+     <string name="title_section25">PapayaBerryJuice</string>
+     <string name="title_section26">CherryBerryTea</string>
+     <string name="title_section27">StrawBananaJuice</string>
+     <string name="title_section28">CarrotMangoJuice</string>
+     <string name="title_section29">Exercise 1</string>
+     <string name="title_section30">Exercise 2</string>
+     <string name="title_section31">Exercise 3</string>
+     <string name="title_section32">Exercise 4</string>
+     <string name="title_section33">Exercise 5</string>
+     <string name="title_section34">Exercise 6</string>
+     <string name="title_section35">Exercise 7</string>
+     <string name="title_section36">Exercise 8</string>
+     <string name="title_section37">Exercise 9</string>
+     <string name="title_section38">Exercise 10</string>
+     <string name="title_section39">Exercise 11</string>
+     <string name="title_section40">Exercise 12</string>
+     <string name="title_section41">ClearingBlemishes</string>
+     <string name="title_section42">HandAndFeet</string>
+     <string name="title_section43">OilySkin</string>
+     <string name="title_section44">Food 1</string>
+     <string name="title_section45">Food 2</string>
+     <string name="title_section46">Food 3</string>
+     <string name="title_section47">Food 4</string>
+     <string name="title_section48">Food 5</string>
+     
+     
+     <string name="correct">Your answer is correct!!!!!!!!!</string>
+     <string name="wrong">Your answer is wrong!!!!!!!!!!!!</string>
+     <string name="ans1">Saliva normally rinses the mouth of bacteria and food particles .Patients suffering from conditions like Sjogrens syndrome that result in dry mouth suffer from bad breath. </string>
+     <string name="ans2">Bad breath is a result of breakdown of food particles, saliva, blood and cells by bacteria. Flossing helps to remove the food particles stuck between the teeth and thus reduces bad breath.</string>
+	<string name="ans3">Water rinses the mouth of bacteria and food particles and helps to keep the mouth moist. Hence, patients with bad breath are advised to drink plenty of water.</string>
+	 <string name="ans4">Garlic, when eaten, is taken up by the blood stream and the odor is exhaled out through the lungs. A mouthwash may provide temporary relief, but the halitosis will reduce only after the garlic is eliminated from the body.</string>
+	 <string name="ans5">When a person is on a low-carb diet, the body utilizes the fat as a source of energy. This results in release of ketones in the body, which cause bad breath.</string>
+	 <string name="ans6">When your permanent tooh falls out it is better to see a dentist and to ensure that all is well. The ideal answer would be to wrap it in a clean wet cloth and then see the dentist, but option C also works.</string>
+	 <string name="ans7">Brushing too often may injure gums.</string>
+	 <string name="ans8">There are two types of fat, subcutaneous fat lying below the skin and visceral fat (or belly fat or abdominal fat) surrounding the abdominal organs such as liver, pancreas, stomach etc. Belly fat is not restricted to fat people alone, thin people too can have too much belly fat.</string>
+	 <string name="ans9">Apple shape body type normally stores fat in the abdomen and is considered to be less safe than the other two as far as abdominal fat is concerned. In general, a waist size of less than 35 inches for women and less than 40 inches for men is best for your health.</string>
+	 <string name="ans10">After exercising, or during summer, the blood vessels located in the dermis dilate and blood is brought to the skins surface. The body then begins to perspire and this brings about the much -needed cooling.</string>
+	 <string name="ans11">The skin comprises about 15 to 20 percentage of the body weight.</string>
+	 <string name="ans12">The dermis is located between the epidermis and the inner subcutaneous tissue.</string>
+	 <string name="ans13">Excessive exposure to sun UV rays causes skin cancer.</string>
+	 <string name="ans14">Dermatology is the branch of medicine that deals with skin.</string>
+	 <string name="ans15">Protection, Water resistance, Evaporation control, Heat regulation, Sensation, Storage and synthesis.</string>
+	 <string name="ans16">Our skin may be normal, oily or dry. Another type known as the combination skin has also been described, which is partly dry and partly oily.</string>
+	 <string name="ans17">Dermatitis refers to inflammation of the skin.</string>
+	 <string name="ans18">Acne is a common, chronic condition present in about 85% of adolescents and young adults</string>
+	 <string name="ans19">Vitiligo is a skin condition caused by absence of the pigment, melanin, in the affected area of the skin. Michael Jackson was affected by it, and thus vitiligo became commonly known all over the world.</string>
+	 <string name="ans20">Changes in the immune system bring about psoriasis which is characterized by unsightly skin lesions.</string>
+	 <string name="ans21">When someone experiences symptoms of depression, the negative emotions that he feels affects him physically as well. The state of his mind is reflected in the form of physical symptoms.</string>
+	 <string name="ans22">People of any age, gender or background can develop depression. Adolescence is the most critical period when hormonal changes along with external factors such as social pressures and academic expectations may trigger off depression. In fact, even children are becoming victims of depression. So do the elderly and women. Women, facing the stress of balancing professional work along with family responsibilities become susceptible to depression. In the same way, pregnancy, childbirth, menopause and other stressful life events may lead to depression. "Men are conditioned to deny their feelings...", says Dr. R.K.Singh, professor and head of the department of psychiatry in Lady Hardinge Medical College, New Delhi, India. Nevertheless, they too suffer from depression. Depression does not exclude any group.</string>
+	 
+	 <string name="mcorrect">အေျဖမွန္ပါတယ္။</string>
+	 <string name="mwrong">အေျဖမွားပါတယ္။</string>
+	 <string name="mans1">ေျခာက္ေသြ႕ေသာ ပါးစပ္က ခံတြင္းအနံ႔ဆိုးထြက္ျခင္းကို ျဖစ္ေစႏိုင္တယ္။</string>
+	 <string name="mans2">ခံတြင္းအနံ႔ဆိုးထြက္ျခင္းက သြားၾကားထဲမွာ အစာေတြ၊ တံေတြး၊ ေသြးႏွင့္ ဆဲလ္ေတြကို ဘက္တီးရီးယားေတြက ျဖိဳခြဲလိုက္ျခင္းျဖစ္တယ္။ သြားကို အပ္ခ်ည္ျဖင့္ရွင္းေပးတာက အစာေတြသြားၾကားထဲမွာ မက်န္ေအာင္ လုပ္ေပးလို႔ ခံတြင္းအနံ႔ဆိုးထြက္ျခင္းကို ေလွ်ာ့နည္းေစႏိုင္တယ္။ </string>
+	 <string name="mans3">ေရက ခံတြင္းထဲက ဘက္တီးရီးယားေတြ၊ အစာေတြကို ေဆးေၾကာ ေပးႏိုင္တဲ့အျပင္ ပါးစပ္ရဲ႕ စိုစြတ္မႈကို ထိန္းေပးလို႔ ခံတြင္း အနံ႔ဆိုးသူေတြက ေရမ်ားမ်ား ေသာက္သင့္တယ္။</string>
+	 <string name="mans4">ဂ်င္းရဲ႕ အနံ႔ေတြက ခံတြင္းက ေသြးေၾကာကေန တဆင့္ အဆုတ္ထဲ ေရာက္လို႔ အဆုတ္ကေန ျပန္ထုတ္တဲ့ ေလေတြမွာ ဂ်င္းနံ႔ေတြ ပါလာတာေၾကာင့္ ခဏပဲ ခံတဲ့ ပါးလုပ္က်င္းျခင္းက ဂ်င္းနံ႔ ေပ်ာက္တယ္ဆိုတာ မျဖစ္ႏိုင္ပါဘူး။</string>
+	 <string name="mans5">အပ္ခ်ည္နဲ႔ ဖယ္ထုတ္ သို႔ ပါးလုပ္က်င္းပါ။</string>
+	 <string name="mans6">- ၾကီးသြားေတြ က်ိဳးရင္ေတာ့ ဆရာဝန္ ႏွင့္ ျပတာ အေကာင္းဆံုးပဲ။ သန္႔ရွင္း စိုစြတ္တဲ့ အဝတ္ထဲ သြား ထည့္ျပီး ဆရာဝန္ ႏွင့္ ျပပါ။</string>
+	 <string name="mans7">သြားကို မၾကာ ခဏ တိုက္ျခင္းက သြားအေပၚယံ လႊာေတြကို ပ်က္စီးေစႏိုင္ပါတယ္။</string>
+	 <string name="mans8">ကိုယ္တြင္း အဆီေတြကို ကိုယ္တြင္း အဂၤါေတြ နားမွာပဲ ေတြ႕ရပါတယ္။ ဒီအဆီေတြက ဝတဲ့သူေတြမွာပဲ ရွိတတ္တယ္ ရယ္လုိ႔ မဟုတ္ပါဘူး။ ႏွလံုး အဆီဖံုးတာ၊ အသည္း အဆီဖံုးတာ ေတြက ကိုယ္တြင္း အဆီေတြ ေၾကာင့္ပါ။</string>
+	 <string name="mans9">အဆီေတြက ဝမ္းဗိုက္ထဲမွာ ပန္းသီးပံုသ႑ာန္နဲ႔ စုေဝးေနတတ္ပါတယ္။ </string>
+	 <string name="mans10">ေလ့က်င့္ခန္း ျပဳလုပ္ျပီး သို႔ ေႏြရာသီမွာဆို ရင္ ပိုသိသာပါတယ္။ လႈပ္ရွားမႈေတြေၾကာင့္ အေရျပား ေအာက္က ေသြးေၾကာထဲက ေသြးေတြက အေရျပားေပၚကို ေခၽြးအေနနဲ႔ တက္လာပါတယ္။ ေလတိုက္လိုက္တဲ့ အခါမွာေတာ့ ေခၽြးနဲ႔ ေလတို႔ ေပါင္းစီးမႈကို အေရျပားက ေအးျမျခင္းအေနနဲ႔ သိသြားတယ္။</string>
+	 <string name="mans11">အေရျပားက လူ႕အေလးခ်ိန္ရဲ႕ ၁၅ - ၂၀ ရာခိုင္ႏႈန္းထိ ေလးတယ္လို႔ ဆိုပါတယ္။</string>
+	 <string name="mans12">ဒါးမစ္က အက္ပီဒါးမစ္ epidermis နဲ႔ အတြင္း ဆပ္က်ဴေတးနီးယက္စ္ အလႊာ Subcutaneous layer ၾကားထဲက အလႊာပါ။</string>
+	 <string name="mans13">ခရမ္းလြန္ ေရာင္ျခည္ ထိတာမ်ားရင္ အေရျပား ကင္ဆာ ျဖစ္ႏိုင္ပါတယ္။ ထီး ေဆာင္းပါ။ ေနကာ မ်က္မွန္ တပ္ပါ။ </string>
+	 <string name="mans14">အေရျပားနဲ႔ သက္ဆိုင္တဲ့ ေဆးနာမည္ခြဲ တစ္ခုပါ။</string>
+	 <string name="mans15">ကာကြယ္ျခင္း၊ ေရဓာတ္ ထိန္းညိွျခင္း၊ အေငြ႕ပ်ံ႕မႈ ထိန္းညိွျခင္း၊ အပူခ်ိန္ ထိန္းျခင္း၊ အာရံုခံျခင္း၊ သိုေလွာင္ျခင္း၊ ဓာတ္ျပဳ ျပိဳကြဲျခင္း တို႔ပါပဲ။</string>
+	 <string name="mans16">အဓိက အားျဖင့္ေတာ့ ၃မ်ိဳးရွိပါတယ္။ ခုေနာက္ပိုင္းမွာေတာ့ ေျခာက္ေသြ႕ အဆီျပန္ေသာ အသားအေရ ရယ္ဆိုျပီး ေျပာလာၾကတယ္။</string>
+	 <string name="mans17">ဒီေရာဂါက အေရျပားမွာ အနီစက္ေတြ အဖုအပိန္႔ေတြ ျဖစ္ျခင္း ကိုဆိုတာပါ။</string>
+	 <string name="mans18">ၾကီးေကာင္ဝင္သူေတြ နဲ႔ သတ္လတ္ပိုင္း ေတြမွာ အျဖစ္မ်ားပါတယ္။</string>
+	 <string name="mans19">အေရျပားမွာ ေရာင္ျခယ္ေတြ မရွိတဲ့ ေရာဂါပါ။ မိုက္ကယ္ ဂ်က္ဆင္မွာ ဒီလို ေရာဂါဆန္း ရွိပါတယ္။ ဘိုျဖဴမွာလည္း ရွိတယ္လို႔ ၾကားမိတယ္။ သိပ္ေတာ့ ေသခ်ာဘူး။</string>
+	 <string name="mans20">ေရာဂါ ကာကြယ္ျခင္း အဖြဲ႕အစည္း ေျပာင္းလဲျခင္းက psoriasis ျဖစ္ေပၚေစျပီး ကိုယ္တြင္း အဂၤါေတြ ထိခိုက္မႈ ျဖစ္ေစပါတယ္။</string>
+	 <string name="mans21">စိတ္ဓာတ္က် ျပီဆိုရင္ မေကာင္းတဲ့ စိတ္ေတြက စိတ္တင္မက လူကိုပါ ပင္ပန္းေစပါတယ္။ သူ႔ရဲ႕ စိတ္က အျပဳအမူကိုပါ သက္ေရာက္ေစပါတယ္။</string>
+	 <string name="mans22">စိတ္ဓာတ္က်ျခင္းက အသက္အရြယ္မေရြး၊ က်ား မ မေရြး ျဖစ္ႏိုင္ပါတယ္။</string>
+	 
+	 
+	 
+</resources>

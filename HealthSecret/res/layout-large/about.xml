@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvabout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello everybody!!!!!!\nThis application is created by Nan Su Yee Win (Pinky) and May Khine Nyein(April).\nThis is our first android application so it has some incomplete function.\nWe will improve app's feature and design in next generation.\nThank U!!!!"
+        android:textSize="25dp"
+        />
+
+</LinearLayout>
